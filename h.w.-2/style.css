@@ -1,0 +1,12 @@
+body{
+ background-color: rgb(59 70 100);
+}
+ .clockinfo{
+ margin: auto;
+ width:200px;
+ background-color: #181f32;
+ padding: 100px;
+ color: aliceblue;
+ margin-top: 200px;
+font-size: 10 px;
+} 

@@ -12,6 +12,5 @@ if (oper === '*') {
  document.getElementById('result').value = n1*n2; 
 }
 if (oper === '/') {
- document.getElementById('result').value = n1/n2; 
 }
 }
